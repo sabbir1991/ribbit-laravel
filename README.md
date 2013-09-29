@@ -1,4 +1,4 @@
-ribbit-laravel
-==============
+Ribbit - Laravel Build
+======================
 
-A Twitter clone built in Laravel
+Ribbit is a Twitter Clone built in Laravel
